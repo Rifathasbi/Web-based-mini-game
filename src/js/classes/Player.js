@@ -22,7 +22,7 @@ class Player {
 
 
     movement(direction) {
-        switch (direction) {
+        switch (direction) { 
             case 'ArrowUp':
                 this.velocity.y = -Math.sqrt(2 * this.gravity * this.heightJump) 
             break
