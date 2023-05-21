@@ -7,7 +7,7 @@ canvas.height = DISPLAY_PIXEL.height * ASPECT_RATIO.height
 const playerProperty = {
     width : 50,
     height : 50,
-    speed : 5,
+    speed : 5,  
     color :'green',
     position : {
         x : 0,
