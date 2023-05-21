@@ -8,7 +8,7 @@ const playerProperty = {
     width : 50,
     height : 50,
     speed : 5,
-    color :'tomato',
+    color :'green',
     position : {
         x : 0,
         y : 0
